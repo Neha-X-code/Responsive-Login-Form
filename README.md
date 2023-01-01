@@ -1,2 +1,2 @@
-# Login form
-  Login form created using HTML and CSS
+# Responsive Login Form
+  Responsive Login Form created using HTML and CSS
