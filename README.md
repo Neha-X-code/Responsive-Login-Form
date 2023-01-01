@@ -1,2 +1,2 @@
-# login form
-A login form created using HTML and CSS
+# Login form
+  Login form created using HTML and CSS
